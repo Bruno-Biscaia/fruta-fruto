@@ -1,0 +1,40 @@
+.imagem-carrossel-um{
+    object-fit: cover;
+    object-position: 0 80% ;
+    height: 400px;    
+}
+
+.imagem-carrossel-dois{
+    object-fit: cover;
+    height: 400px;    
+}
+
+.carrosel-titulo {
+    font-family: 'Pacifico', cursive;         
+}
+
+.titulo {
+    font-family: 'Pacifico', cursive;
+    color: darkred;    
+}
+
+.button-card-styles {
+    background-color: darkred;
+    color: white;
+}
+
+.card-styles {
+    border-color: darkred;
+    max-width: 18rem;
+}
+
+.receitas-cards {
+    object-fit: cover;    
+    height: 200px;      
+}
+
+.button-modal-styles {
+    background-color: darkred;
+    color: white;
+}
+
